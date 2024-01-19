@@ -19,7 +19,7 @@
     urijs "^1.19.2"
 
 "@algolia/autocomplete-core@1.9.2":
-  version "1.9.2"
+  version "1.9.1"
   resolved "https://registry.yarnpkg.com/@algolia/autocomplete-core/-/autocomplete-core-1.9.2.tgz#1c9ffcfac7fc4733fe97356247b25d9d7a83538c"
   integrity sha512-hkG80c9kx9ClVAEcUJbTd2ziVC713x9Bji9Ty4XJfKXlxlsx3iXsoNhAwfeR4ulzIUg7OE5gez0UU1zVDdG7kg==
   dependencies:
